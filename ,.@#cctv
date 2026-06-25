@@ -557,10 +557,10 @@ http://wakhaji.biz.id/hls/hls-oxygen.php?id=phoenixhongkong
 #https://gooo.blog/opix/genx.m3u8?id=phoenixhongkong&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="WORLD TV", PHOENIX ZX HD
+#EXTINF:-1 tvg-id="" group-title="CHINA" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixinfonews.png", PHOENIX ZX HD
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="WORLD TV", PHOENIX ZX
+#EXTINF:-1 tvg-id="" group-title="CHINA" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixinfonews.png",PHOENIX ZX
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/international/phoenixtv.jpg" group-title="WORLD TV", PHOENIX CHINESE
@@ -648,22 +648,75 @@ http://o11.163189.xyz/stream/live/iqiyi/
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",明珠台
+http://r.jdshipin.com/ZQ4kN
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼", Lotus Macao Skygo
 #https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 #https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",翡翠台
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",無綫星河 国
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",千禧经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",亞洲武俠台
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB翡翠
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB翡翠
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB翡翠
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB PLUS
+https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB PLUS备3
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB PLUS
+http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB Plus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB plus 超清
+http://67.220.71.199:2347/livehttpplay?channel_id=30023
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB星河
+http://r.jdshipin.com/Voac4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",無綫星河
+http://rihou.cc:555/tv/[PL]无线星河
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",無綫星河 国
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",千禧经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",亞洲武俠台
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d0364d443b49_7r8B.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIUTV TAIWAN
-#http://67.220.71.199:2347/livehttpplay?channel_id=20131
-#http://67.220.71.199:2347/livehttpplay?channel_id=30032
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/viutv6.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIUTV6 TAIWAN
-#http://67.220.71.199:2347/livehttpplay?channel_id=20132
-#http://67.220.71.199:2347/livehttpplay?channel_id=30033
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/viutv6.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIU
-#http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/viutv6.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIUTV
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvchinese.net/uploads/tv/viutv6.jpg" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",VIUTV2
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="CN 🇨🇳/HK 🇭🇰/TW 🇹🇼",HOYTV 76
 
