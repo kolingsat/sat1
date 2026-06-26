@@ -1048,6 +1048,25 @@ http://193.47.62.55/hls/QTKKKQQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 http://193.47.62.51/hls/TKKKQQQQ.m3u8
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 07
+http://178.253.194.79:10005
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 08
+http://178.253.194.79:10001
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 09
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="PIALA DUNIA" provider="" provider-type="iptv" provider-logo="", FIFA World Cup 2026 10
+http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
+
+#EXTINF:-1  tvg-id="udptv/tsn2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="PIALA DUNIA" provider="" provider-type="iptv" provider-logo="", FIFA World Cup 2026 11
+http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
