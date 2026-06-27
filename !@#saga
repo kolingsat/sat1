@@ -1599,6 +1599,13 @@ https://flv.intechmedia.net/live/ch34.m3u8
 #EXTINF:-1 tvg-id="Biznet Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg" group-title="Kids", Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
 
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="Kids",MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 #EXTINF:-1 tvg-id="Cartoonito.sg" tvg-name="Cartoonito ᴴᴰ" tvg-logo="https://iili.io/JmoBXF1.png" group-title="Kids", Cartoonito (1XL)
@@ -1611,6 +1618,16 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="Kids", Animax 🔵
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/ebskids.jpg" group-title="Kids", EBS KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+http://wakhaji.biz.id/hls/hls-oxygen.php?id=ebskids
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/kartoonchannel.jpg" group-title="Kids",KARTOON CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+http://wakhaji.biz.id/hls/hls-oxygen.php?id=kartoon
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1704,6 +1721,119 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="KIDS",CARTOON NETWORK 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="KIDS",CARTOONITO 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="KIDS",NICKELODEON 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="KIDS",NICK JR 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-id="Nickelodeon.id" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/627/627-LOGO-m.png",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40557a1738018d4dd815e79f2cfc6b30:3967abe5845e8c4fffbd2f4cd4b77f0a
+https://tvcdn.tv.telia.lt/live/eds/Nickelodeon_H/DASH_5_CPIX_NPVR/Nickelodeon_H.mpd
+
+#EXTINF:-1 tvg-id="NickJr.id" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/147/75147-LOGO-m.png",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46beefe8a4d11f36822b75d9a67a42be:e94946dcfd579b24e2c41a1cb051e18a
+https://tvcdn.tv.telia.lt/live/eds/Nick_Jr_H/DASH_5_CPIX_NPVR/Nick_Jr_H.mpd
+
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="KIDS",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff8085fd9469913a6f11fb3a4dd3a1be:2496ee469b2d1a19c22271a7b89c29e0
+https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Channel_H.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-junior.png" group-title="KIDS",Disney Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
+https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
+
+#EXTINF:-1 tvg-id="JimJamRSEE" tvg-name="JimJam RSEE" tvg-logo="" group-title="KIDS",JimJam RSEE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
+https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.mv" tvg-name="Cartoon Network US" tvg-logo="https://8upload.com/image/68063548097dd/cnhilay.png" group-title="KIDS",CN US
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="sensicaljr.mv" tvg-name="Sensical Jr" tvg-logo="https://8upload.com/image/68247b8a9e355/sensicaljrhilay.png" group-title="KIDS",SENSICAL JR
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/588249d5-ab5b-40f9-8951-7f99f488d05a/4.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.mv" tvg-name="Disney XD" tvg-logo="https://8upload.com/image/681f402bdee16/disneyxdhilay.png" group-title="KIDS",DISNEY XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="KIDS",NICKTOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://41.205.93.154/NICKTOONS/index.m3u8
+http://212.102.60.231/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.mv" tvg-name="PBS Kids" tvg-logo="https://8upload.com/image/681f471c5ef06/pbskidshilay.png" group-title="KIDS",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/kidsflix.png" group-title="KIDS",KidsFlix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIDS",Japanim TV (1080p)
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Cartoons
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Kids All Aussie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Big Kids All Aussie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Kids Play School
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Kids Play Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1#EXTINF:-1 group-title="KIDS",ABC Big Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
