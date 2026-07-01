@@ -3195,62 +3195,35 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.postimg.cc/Gm50P82d/ezgif-735cb7498f822a39.png",MONO MAX 1 (TH)
-https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Gm50P82d/ezgif-735cb7498f822a39.png" group-title="TRUE SPORT 🇹🇭",MONOMAX 1
+http://54.37.19.157/monomax1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L69GrBYC/ezgif-760800d70bbaf49c.png" group-title="TRUE SPORT 🇹🇭",MONOMAX 2
+http://54.37.19.157/monomax2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-1-th.png" group-title="TRUE SPORT 🇹🇭",TRUE SPORTS 1
+http://54.37.19.157/tsp1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-2-th.png" group-title="TRUE SPORT 🇹🇭",TRUE SPORTS 2
+http://54.37.19.157/tsp2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-3-th.png" group-title="TRUE SPORT 🇹🇭",TRUE SPORTS 3
+http://54.37.19.157/tsp3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-4-th.png" group-title="TRUE SPORT 🇹🇭",TRUE SPORTS 4
+http://54.37.19.157/tsp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-5-th.png" group-title="TRUE SPORT 🇹🇭",TRUE SPORTS 5
+http://54.37.19.157/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-7-th.png" group-title="TRUE SPORT 🇹🇭",TRUE SPORTS 7
+http://54.37.19.157/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="TRUE SPORT 🇹🇭",BEIN 1
+http://54.37.19.157/bein1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="TRUE SPORT 🇹🇭",BEIN 2
+http://54.37.19.157/bein2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="TRUE SPORT 🇹🇭",BEIN 3
+http://54.37.19.157/bein3/playlist.m3u8
 
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.postimg.cc/L69GrBYC/ezgif-760800d70bbaf49c.png",MONO MAX 2 (TH)
-https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thairath-tv-32-th.png",THAIRATH TV 32 HD (TH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.postimg.cc/65kzcHY3/ezgif-375e544a778439e1.png",PPTV HD 36 (TH)
-#http://119.59.118.168/live/ch48/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-1-th.png",TRUE SPORTS 1 (TH)
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
-#http://119.59.118.168/live/ch9/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-2-th.png",TRUE SPORTS 2 (TH)
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
-#http://119.59.118.168/live/ch10/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-3-th.png",TRUE SPORTS 3 (TH)
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
-#http://119.59.118.168/live/ch11/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-4-th.png",TRUE SPORTS 4 (TH)
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport4_720/chunks.m3u8
-#http://119.59.118.168/live/ch12/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-5-th.png",TRUE SPORTS 5 (TH)
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport5_720/chunks.m3u8
-#http://119.59.118.168/live/ch13/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/true-sports-7-th.png",TRUE SPORTS 7 (TH)
-https://love.jco5sjujta.workers.dev/vx-origin/hd-tsport7_720/chunks.m3u8
-#http://119.59.118.168/live/ch14/irannahee/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.postimg.cc/BvnPKt3X/ezgif-61c17ac9dbdd79bf.png",SCTV 16 (VIETNAM)
-https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
-
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", max 1 (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", Max 2 (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", T SPORTS (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776194.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE TENNIS (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776208.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE SPORTS 2 (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776198.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE SPORTS 3 (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776202.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE SPORTS 5 (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776201.m3u8
-#EXTINF:-1 group-title="Truevision" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TRUE SPORTS 7 (THAILAND) 
-http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776196.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="TRUE SPORT 🇹🇭",SPOTV
+http://54.37.19.157/spotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="TRUE SPORT 🇹🇭",SPOTV 2
+http://54.37.19.157/spotv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TRUE SPORT 🇹🇭",TENNIS
+http://54.37.19.157/tennis/playlist.m3u8
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
