@@ -1020,52 +1020,121 @@
 
 
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 01
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 01
+http://178.253.194.79:10005
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",ARENA 1 PREMIUM HD
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=md47hloawt
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=md47hloawt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/md47hloawt.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",DAZN HD
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=ifibecaaqs
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=ifibecaaqs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/ifibecaaqs.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 02
+http://178.253.194.79:10001
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 02
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 05
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",TIDIK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://107.150.60.122/live/cctv5p.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 04
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 05
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QTKKKQQQQ.m3u8
-
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 06
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://193.47.62.51/hls/TKKKQQQQ.m3u8
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 07
-http://178.253.194.79:10005
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 08
-http://178.253.194.79:10001
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 09
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Bein Sport TuRky 1
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="PIALA DUNIA" provider="" provider-type="iptv" provider-logo="", FIFA World Cup 2026 10
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 2026 HD
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bein SPort 1 Fr
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=thjmdciaen
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=thjmdciaen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/thjmdciaen.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",ORF 1 HD
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zoojqh2zjh
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=zoojqh2zjh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/zoojqh2zjh.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",HRT2
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=hcicvcycw2
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=hcicvcycw2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/hcicvcycw2.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",HRT3
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=fq0wnvxdtq
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=fq0wnvxdtq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/fq0wnvxdtq.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",TSN1 FHD
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=esx51jdn9y
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=esx51jdn9y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/esx51jdn9y.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",TSN1 HD
+#EXTVLCOPT:http-referrer=https://xyzstreams.st
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FS1 HD
+#EXTVLCOPT:http-referrer=https://xyzstreams.st
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://inproviszon.st/fs1-xyz-waUvqaAACr.m3u8
+
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",TVP SPORT LAT
+#EXTVLCOPT:http-referrer=https://getembed.live/embed-player?stream=zpzdyd32sa
+#EXTVLCOPT:http-origin=https://getembed.live/embed-player?stream=zpzdyd32sa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://obstreamx.click/live/zpzdyd32sa.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN4
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
 
-#EXTINF:-1  tvg-id="udptv/tsn2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="PIALA DUNIA" provider="" provider-type="iptv" provider-logo="", FIFA World Cup 2026 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1  tvg-id="udptv/tsn2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN2
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 
+#EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Spanish Feed (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streams.center
+#EXTVLCOPT:http-origin=https://streams.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8
 
 
 
