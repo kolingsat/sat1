@@ -1086,6 +1086,9 @@ http://178.253.194.79:10005
 #EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FIFA World Cup 2026 04
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/272.m3u8
 
+#EXTINF:-1 tvg-id="2095855" tvg-name="WC| (LAT) DSPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="PIALA DUNIA",WC| (LAT) DSPORTS
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2095855.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="PIALA DUNIA",CCTV 5+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://107.150.60.122/live/cctv5p.m3u8
