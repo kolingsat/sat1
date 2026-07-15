@@ -1155,7 +1155,20 @@
 
 
 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3ODM4NjgwMzU1NDg6Y2RubGl2ZXR2LnR2OjJkZGI3YmI3MjFiODUwYTguMDc5OWNkOWFiNDI1MGMyOTVhNWExOWJmZjFlYTkyOGRmZmZkOTkxYTQzMTE0YzVkN2RhMmIzNmIxNTNjNWY4Mg
 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 03 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc175/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc1OjE3ODM4NjgwMzU1OTI6Y2RubGl2ZXR2LnR2OjI5NzQwYzcxZWUyMDhhN2EuMmZiMjkwMzQ5MGMxNjViNjE5NTdlNWUxNDI0ZDI0NmQyMzEyZWQ2M2Q4ZmVkNjU0Zjc1YmE4OWI3MWYxYzIzOQ
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",FIFA World Cup 04 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3ODM4NjgwMzU2MTg6Y2RubGl2ZXR2LnR2OjhjYzc1ZGVlNWU5M2EyYmUuN2IyZjVlOWE4MGU5ZDQ5YzMxYzFlZTFhOWMxNDUzODVmYjQ1OGQyMmI2ZGE3YTM3MDhkYWFhYmUwNzUzOWEwZA
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="2094027" tvg-name="WC| (HK) NOW SPORTS 616 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="PIALA DUNIA",WC| (HK) NOW SPORTS 616 (UHD/4K)
