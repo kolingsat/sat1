@@ -1154,6 +1154,26 @@
 
 
 
+#EXTINF:-1 group-title="INDONESIA TV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-name="MNCTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctv.jpg",MNCTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
+#EXTINF:-1 group-title="INDONESIA TV" tvg-name="INEWS" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg",INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 
 
