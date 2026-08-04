@@ -217,7 +217,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="iNews.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews
+#EXTINF:-1 tvg-id="iNews.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews+
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png",SCTV HD
@@ -502,7 +502,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="StudioUniversal" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png",Studio Universal
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
