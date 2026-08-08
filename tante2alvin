@@ -4368,22 +4368,26 @@ http://107.150.60.122/live/cctv17hd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
 https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",2 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index2/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",3 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index5/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",4 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index7/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",5 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index9/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="DEWASA" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
+http://125.227.210.55:1009/VideoInput/play.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="DEWASA" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
+http://125.227.210.55:1022/VideoInput/play.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="DEWASA" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台(125)
+http://125.227.210.55:3016/VideoInput/play.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="DEWASA" tvg-logo="",Sex girl(125)
+http://125.227.210.55:3031/VideoInput/play.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 group-title="DEWASA" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
+http://125.227.210.55:3033/VideoInput/play.ts
 
 
 #EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",extasy HD
