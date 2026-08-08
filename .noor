@@ -113,6 +113,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 #https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=13
+#EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV",KOMPAS TV (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV",KOMPAS TV 
 https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
